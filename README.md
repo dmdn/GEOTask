@@ -50,6 +50,7 @@ The application was made according to technical task.
 + The application displays the distance between 2 points
 + The application works on a real android device. To do this, Alert Dialogs were performed. Since on a real device GPS geolocation can work slowly and do not always show positions, two points with a line between them can first be displayed, and then the GPS position. If the position GPS is not defined at first, then the Marker on the Map is displayed with the coordinates (0.0000; 0.0000) and the text "Geolocation not defined". With the GPS is disabled, a marker with the text "GPS is disabled" is displayed. It may take time for the device to find a location, only after that the Marker will be moved to the point with the coordinates found.
 + The geocoding point search box can accept various text encodings. The result get in English.
++ After returning from the result page to the input / start point input form, the search results disappear (maps and values are cleared). This allows you to enter values again.
 
 [Download APP in APK]( https://drive.google.com/file/d/0B_FuLrEepxSsVnBBWG1IdG15MVE/view?usp=sharing)
 
