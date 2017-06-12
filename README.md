@@ -45,13 +45,16 @@ The application was made according to technical task.
 ![screenshot_005](https://cloud.githubusercontent.com/assets/19373990/26530721/f2bc26a2-43e2-11e7-9b94-2670c3c4c2d6.jpg)
 ![screenshot_006](https://cloud.githubusercontent.com/assets/19373990/26530717/f2b89b54-43e2-11e7-846d-d18e0e1217fc.jpg)
 ![screenshot_007](https://cloud.githubusercontent.com/assets/19373990/26530722/f2d49660-43e2-11e7-8e95-e031a642e60b.jpg)
+![screenshot_2017-06-12-09-05-53](https://user-images.githubusercontent.com/19373990/27021242-bcb5de86-4f4f-11e7-96b6-d0aedec73ff6.png)
+![screenshot_2017-06-12-09-11-56](https://user-images.githubusercontent.com/19373990/27021243-bcb64d26-4f4f-11e7-8a40-ef05ae84e229.png)
 
 ### Additional implementation in the app
 + The application displays the distance between 2 points
 + The application works on a real android device. To do this, Alert Dialogs were performed. Since on a real device GPS geolocation can work slowly and do not always show positions, two points with a line between them can first be displayed, and then the GPS position. If the position GPS is not defined at first, then the Marker on the Map is displayed with the coordinates (0.0000; 0.0000) and the text "Geolocation not defined". With the GPS is disabled, a marker with the text "GPS is disabled" is displayed. It may take time for the device to find a location, only after that the Marker will be moved to the point with the coordinates found.
 + The geocoding point search box can accept various text encodings. The result get in English.
 + After returning from the result page to the input / start point input form, the search results disappear (maps and values are cleared). This allows you to enter values again.
++ On the input tabs, when you rotate the screen, the results list and the marker on the map are saved.
 
-[Download APP in APK]( https://drive.google.com/file/d/0B_FuLrEepxSsVnBBWG1IdG15MVE/view?usp=sharing)
+[Download APP in APK](https://drive.google.com/file/d/0B_FuLrEepxSsc2JNS2hYMkpTbGs/view?usp=sharing)
 
-[Screenshots GEO Task APP in PDF]( https://drive.google.com/file/d/0B_FuLrEepxSscUNqU2QxUHlqblk/view?usp=sharing)
+[Screenshots GEO Task APP in PDF](https://drive.google.com/file/d/0B_FuLrEepxSscUNqU2QxUHlqblk/view?usp=sharing)
