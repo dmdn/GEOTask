@@ -54,6 +54,7 @@ The application was made according to technical task.
 + The geocoding point search box can accept various text encodings. The result get in English.
 + After returning from the result page to the input / start point input form, the search results disappear (maps and values are cleared). This allows you to enter values again.
 + On the input tabs, when you rotate the screen, the results list and the marker on the map are saved.
++ On the data entry screen on some devices, it is possible that the keyboard will shift the map, to display the map, after entering the data in the search string, remove the keyboard.
 
 [Download APP in APK](https://drive.google.com/file/d/0B_FuLrEepxSsc2JNS2hYMkpTbGs/view?usp=sharing)
 
