@@ -1,7 +1,7 @@
 # GEO TASK (Android Junior)
 
 ## Project Description
-The project is made as an educational one. The task text was taken from [forum startandroid.ru](http://forum.startandroid.ru/viewtopic.php?f=54&t=2458&hilit=готовимся+к+собеседованию&sid=319374037ae57c83be76a14a2d79ffd0)
+The project is made as an educational one. The task text was taken from [forum startandroid.ru](http://forum.startandroid.ru/viewtopic.php?f=54&t=2458)
 
 ## Technical Task
 The application consists of 3 screens:
